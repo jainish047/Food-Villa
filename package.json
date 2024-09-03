@@ -1,0 +1,29 @@
+{
+  "name": "food-villa",
+  "version": "1.0.0",
+  "description": "Food ordering app (frontend project) made using React.js, Redux and Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainish047/Food-Villa.git"
+  },
+  "keywords": [
+    "Food",
+    "Food-order",
+    "Restaurant"
+  ],
+  "author": "Jainish D. Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jainish047/Food-Villa/issues"
+  },
+  "homepage": "https://github.com/jainish047/Food-Villa#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

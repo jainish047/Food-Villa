@@ -4,6 +4,7 @@
 # Parcel cache and build files
 .cache/
 dist/
+.parcel-cache/
 
 # Environment variables file
 .env
